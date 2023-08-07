@@ -31,5 +31,5 @@ Script for **StreamElements Overlay** is in [streamelements/overlay.js](streamel
 
 ___
 
-### Development
-Add latest version of [tmi.js](https://tmijs.com/) as `twitch/tmi.js`.
+### Building Locally / Development
+Add latest version of [tmi.js](https://tmijs.com/) as `src/js/twitch/tmi.js`.
