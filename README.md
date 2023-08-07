@@ -1,4 +1,4 @@
-# show-emote
+# tts
 
 Simple !tts <text> command for Twitch and Kick.  
 
@@ -31,5 +31,5 @@ Script for **StreamElements Overlay** is in [streamelements/overlay.js](streamel
 
 ___
 
-### Building Locally / Development
+### Building / Development
 Add latest version of [tmi.js](https://tmijs.com/) as `src/js/twitch/tmi.js`.
