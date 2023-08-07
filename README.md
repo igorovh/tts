@@ -28,3 +28,8 @@ Only moderator can use these commands.
 
 ### StreamElements Overlay
 Script for **StreamElements Overlay** is in [streamelements/overlay.js](streamelements/overlay.js).
+
+___
+
+### Development
+Add latest version of [tmi.js](https://tmijs.com/) as `twitch/tmi.js`.
