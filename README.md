@@ -24,7 +24,7 @@ So the URL can be even this: `https://tts.igor.ovh/?channel=igor_ovh&voice=Szabo
 ### Commands
 Only moderator can use these commands.
 
-- `!tts <emote>` - text to speech.
+- `!tts <text>` - text to speech.
 
 ### StreamElements Overlay
 Script for **StreamElements Overlay** is in [streamelements/overlay.js](streamelements/overlay.js).
